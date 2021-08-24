@@ -1,12 +1,12 @@
 # Overwatch hero selector example
 
-오버워치 영웅 선택 화면 예제!
+오버워치 영웅 선택 화면
 
-[DEMO](https://practical-bartik-a2000a.netlify.app/)
+[DEMO](https://suspicious-pare-435003.netlify.app/)
 
 ## SCSS 리팩토링 버전
 
-https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla/tree/refactoring-scss
+- 추후 업로드
 
 ## Image url
 
