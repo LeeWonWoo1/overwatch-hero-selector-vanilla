@@ -6,7 +6,7 @@
 
 ## SCSS 리팩토링 버전
 
-- 추후 업로드
+- https://github.com/LeeWonWoo1/overwatch-hero-selector-refactoring
 
 ## Image url
 
